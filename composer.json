@@ -1,6 +1,6 @@
 {
-    "name": "the-ar-j/diya",
-    "description": "It's a new PHP framework built with HTML-Tailwind CSS-Js-PHP combination. It's unique ability is simplicity built on core PHP.",
+    "name": "the-ar-j/diya-public",
+    "description": "Diya PHP Framework for websites and web applications that can be used in shared hosting. There is no cli required for production build. It's a new PHP framework built with HTML-Tailwind CSS-Js-PHP combination. It's unique ability is simplicity built on core PHP",
     "type": "project",
     "license": "GPL-3.0",
     "authors": [
@@ -9,5 +9,6 @@
             "email": "hawkdezigns044@gmail.com"
         }
     ],
+    "minimum-stability": "stable",
     "require": {}
 }
