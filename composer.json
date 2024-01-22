@@ -1,0 +1,13 @@
+{
+    "name": "the-ar-j/diya",
+    "description": "It's a new PHP framework built with HTML-Tailwind CSS-Js-PHP combination. It's unique ability is simplicity built on core PHP.",
+    "type": "project",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "The-Ar-J",
+            "email": "hawkdezigns044@gmail.com"
+        }
+    ],
+    "require": {}
+}
